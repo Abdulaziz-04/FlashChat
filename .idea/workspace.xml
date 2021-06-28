@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b20cc889-33d7-4c07-9811-1f7f16096c61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../bitcoin_ticker/lib/crypto_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcoin_ticker/lib/crypto_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcoin_ticker/lib/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcoin_ticker/lib/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/room_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/room_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/welcome_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/welcome_screen.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k6GANqDF25yyJyGOQdidTXTdwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dicee" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdul\AndroidStudioProjects\flash_chat\lib\Components" />
+      <recent name="C:\Users\abdul\AndroidStudioProjects\flash_chat\lib\screens" />
+      <recent name="C:\Users\abdul\AndroidStudioProjects\flash_chat\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20cc889-33d7-4c07-9811-1f7f16096c61" name="Default Changelist" comment="" />
+      <created>1605013482457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605013482457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1606841369126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1606841369126" />
+    <state x="496" y="109" key="FileChooserDialogImpl" timestamp="1614689431806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614689431806" />
+    <state width="1468" height="192" key="GridCell.Tab.0.bottom" timestamp="1606842664927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1468" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606842664927" />
+    <state width="1468" height="192" key="GridCell.Tab.0.center" timestamp="1606842664927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1468" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606842664927" />
+    <state width="1468" height="192" key="GridCell.Tab.0.left" timestamp="1606842664927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1468" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606842664927" />
+    <state width="1468" height="192" key="GridCell.Tab.0.right" timestamp="1606842664927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1468" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606842664927" />
+  </component>
+</project>
