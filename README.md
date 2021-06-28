@@ -1,6 +1,6 @@
 # flash_chat
 
-A chat Application
+A simple chat Application for users with similar intrests
 
 ## Getting Started
 
